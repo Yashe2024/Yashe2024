@@ -10,7 +10,7 @@ Connect with Me:
 
  **GitHub:** [Yash Sinha](https://github.com/Yashe2024)
  
- **LinkedIn:** [Yash Sinha]([https://github.com/Yashe2024](https://www.linkedin.com/in/yashsinha2024/))
+ **LinkedIn:** [Yash Sinha](https://www.linkedin.com/in/yashsinha2024/)
  
 
 
