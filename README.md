@@ -7,7 +7,10 @@
 💞️ I’m looking to collaborate on data visualization projects, open-source analytics tools, and software development initiatives.
 
 Connect with Me:
+
  **GitHub:** [Yash Sinha](https://github.com/Yashe2024)
-LinkedIn: Yash Sinha
+ 
+ **LinkedIn:** [Yash Sinha]([https://github.com/Yashe2024](https://www.linkedin.com/in/yashsinha2024/))
+ 
 
 
