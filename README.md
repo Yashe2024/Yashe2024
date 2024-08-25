@@ -1,5 +1,4 @@
-# 👋 Hello, World! 
-I’m Yash Sinha
+# 👋 Hello, World! I’m Yash Sinha
 
 Welcome to my GitHub profile! I’m excited to share my journey, projects, and passion for data and technology with you. If you’re interested in business intelligence, advanced analytics, or machine learning, you’ve come to the right place!
 
