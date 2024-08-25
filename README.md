@@ -6,8 +6,6 @@
 
 💞️ I’m looking to collaborate on data visualization projects, open-source analytics tools, and software development initiatives.
 
-📫 How to reach me: connect with me on LinkedIn at 
-
-https://www.linkedin.com/in/yashsinha2024/
+📫 How to reach me: connect with me on LinkedIn at https://www.linkedin.com/in/yashsinha2024/
 
 
