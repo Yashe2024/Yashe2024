@@ -10,6 +10,11 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
 
 ## 🎓 Educational Background
 
+ **Post Graduate Program in Artificial Intelligence and Machine Learning**  
+   *University of Texas at Austin, US (Online)*  
+  *Completed: 2023*  
+  This program advanced my knowledge in AI and machine learning, covering practical applications and emerging technologies. It has equipped me with skills in both supervised and unsupervised learning, reinforcement learning, and the use of generative AI models.
+  
 - **Master’s in Automotive Designing and Manufacturing**  
   *Skyy Rider Institutions, Odisha*  
   *Graduated: 2022*  
@@ -20,10 +25,7 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
   *Graduated: 2016*  
   My undergraduate studies equipped me with robust analytical and problem-solving skills that are critical for data analysis and business intelligence.
 
-- **Post Graduate Program in Artificial Intelligence and Machine Learning**  
-   *University of Texas at Austin, US (Online)*  
-  *Completed: 2023*  
-  This program advanced my knowledge in AI and machine learning, covering practical applications and emerging technologies. It has equipped me with skills in both supervised and unsupervised learning, reinforcement learning, and the use of generative AI models.
+-
 
 ## 🔍 Areas of Interest
 
@@ -65,7 +67,8 @@ I’m open to collaborating on:
 
 ## 🌐 Connect with Me
 
-- **GitHub:** [Yash Sinha](https://github.com/Yashe2024) – Explore my repositories, check out my projects, and see what I’m working on.
+**GitHub:** [Yash Sinha](https://github.com/Yashe2024) – Explore my repositories, check out my projects, and see what I’m working on.
+  
 **LinkedIn:** [Yash Sinha](https://www.linkedin.com/in/yashsinha2024/) – Connect with me to discuss technology, career opportunities, or to share insights on data and analytics.
 
 Feel free to reach out if you’re interested in collaborating, discussing new projects, or simply connecting over our shared interests in technology and data. I look forward to creating something extraordinary together!
