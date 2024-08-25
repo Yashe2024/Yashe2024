@@ -25,7 +25,6 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
   *Graduated: 2016*  
   My undergraduate studies equipped me with robust analytical and problem-solving skills that are critical for data analysis and business intelligence.
 
--
 
 ## 🔍 Areas of Interest
 
