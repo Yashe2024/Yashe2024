@@ -1,4 +1,4 @@
-# 👋 Hello, World! I’m Yash Sinha
+# 👋 Hello,World ! I’m Yash Sinha
 
 Welcome to my GitHub profile! I’m excited to share my journey, projects, and passion for data and technology with you. If you’re interested in business intelligence, advanced analytics, or machine learning, you’ve come to the right place!
 
@@ -16,12 +16,12 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
   This program advanced my knowledge in AI and machine learning, covering practical applications and emerging technologies. It has equipped me with skills in both supervised and unsupervised learning, reinforcement learning, and the use of generative AI models.
   
 - **Master’s in Automotive Designing and Manufacturing**  
-  *Skyy Rider Institutions, Odisha*  
+  *Skyy Rider Institutions*  
   *Graduated: 2022*  
   This program provided me with a solid foundation in automotive design and manufacturing, combining creativity with technical skills and sparking my interest in the intersection of technology and data.
 
 - **Bachelor of Engineering in Mechanical Engineering**  
-  *Techno India University, Kolkata*  
+  *Techno India University*  
   *Graduated: 2016*  
   My undergraduate studies equipped me with robust analytical and problem-solving skills that are critical for data analysis and business intelligence.
 
