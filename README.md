@@ -1,4 +1,4 @@
-# 👋 Hello,World ! I’m Yash Sinha
+# 👋 Hello,World! I’m Yash Sinha
 
 Welcome to my GitHub profile! I’m excited to share my journey, projects, and passion for data and technology with you. If you’re interested in business intelligence, advanced analytics, or machine learning, you’ve come to the right place!
 
@@ -70,7 +70,9 @@ I’m open to collaborating on:
   
 **LinkedIn:** [Yash Sinha](https://www.linkedin.com/in/yashsinha2024/) – Connect with me to discuss technology, career opportunities, or to share insights on data and analytics.
 
-Feel free to reach out if you’re interested in collaborating, discussing new projects, or simply connecting over our shared interests in technology and data. I look forward to creating something extraordinary together!
+Feel free to reach out if you’re interested in collaborating, discussing new projects, or simply connecting over our shared interests in technology and data. 
+
+I look forward to creating something extraordinary together!
 
 ---
 
