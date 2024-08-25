@@ -10,7 +10,7 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
 
 ## 🎓 Educational Background
 
- **Post Graduate Program in Artificial Intelligence and Machine Learning**  
+- **Post Graduate Program in Artificial Intelligence and Machine Learning**  
    *University of Texas at Austin, US (Online)*  
   *Completed: 2023*  
   This program advanced my knowledge in AI and machine learning, covering practical applications and emerging technologies. It has equipped me with skills in both supervised and unsupervised learning, reinforcement learning, and the use of generative AI models.
