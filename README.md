@@ -1,4 +1,5 @@
-# 👋 Hello, World! I’m Yash Sinha
+# 👋 Hello, World! 
+I’m Yash Sinha
 
 Welcome to my GitHub profile! I’m excited to share my journey, projects, and passion for data and technology with you. If you’re interested in business intelligence, advanced analytics, or machine learning, you’ve come to the right place!
 
@@ -21,7 +22,7 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
   My undergraduate studies equipped me with robust analytical and problem-solving skills that are critical for data analysis and business intelligence.
 
 - **Post Graduate Program in Artificial Intelligence and Machine Learning**  
-_  *University of Texas at Austin, US (Online)*  
+   *University of Texas at Austin, US (Online)*  
   *Completed: 2023*  
   This program advanced my knowledge in AI and machine learning, covering practical applications and emerging technologies. It has equipped me with skills in both supervised and unsupervised learning, reinforcement learning, and the use of generative AI models.
 
