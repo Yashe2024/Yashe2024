@@ -28,6 +28,7 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
 
 
 ## 🔍 Areas of Interest
+![image]
 <img src="https://github.com/your-username/your-repo/blob/main/your-gif.gif" alt="Description of GIF" width="300"/>
 
 
