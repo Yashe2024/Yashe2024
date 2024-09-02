@@ -1,10 +1,9 @@
-# 👋 Hello,World! I’m Yash Sinha
+![image](https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966)
+# 👋 Hello,World! I’m Yash 
 
 Welcome to my GitHub profile! I’m excited to share my journey, projects, and passion for data and technology with you. If you’re interested in business intelligence, advanced analytics, or machine learning, you’ve come to the right place!
 
 ## 🌟 About Me
-
-![image](https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966)
 
 I’m a seasoned Business Intelligence and Business Analyst professional with over 6 years of experience in transforming data into actionable insights. My work revolves around understanding business processes, identifying opportunities for improvement, and implementing data-driven solutions that drive strategic decisions and foster innovation. My passion lies in leveraging technology to solve complex problems and enhance operational efficiency.
 
