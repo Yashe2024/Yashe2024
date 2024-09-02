@@ -33,6 +33,7 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
 - **Generative AI Innovations:** Engaging with generative models like GANs and VAEs, I focus on creating synthetic data and optimizing models for text and image generation, leveraging tools like GPT-4, StyleGAN, and DALL-E.
 
 ## 🛠️ Core Skills and Expertise
+![image](https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966)
 
 - **Business Intelligence & Data Analysis:**
   - **Power BI:** Expertise in integrating data from various sources, creating interactive visualizations, and developing advanced dashboards. Skilled in using Power Query for data transformation and DAX for custom calculations.
