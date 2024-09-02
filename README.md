@@ -1,3 +1,46 @@
+# My GitHub Profile
+
+[![GitHub Stats](https://camo.githubusercontent.com/4d37360467cf33b64e8b96b3305fd416347afeb170dd7566c6d30cff9a8551e6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d70726174696b39343232392673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)](https://github.com/YourUsername)
+
+Welcome to my GitHub profile! Here are some of the repositories I have been working on:
+
+## Repositories
+
+### [Microsoft-Power-BI](https://github.com/Yashe2024/Microsoft-Power-BI)
+This repository offers comprehensive resources, tutorials, templates, and examples to help you master Microsoft Power BI. It covers data visualization, report creation, and business intelligence.
+
+- **Topics:** analytics, data-visualization, business-intelligence, dashboards, DAX, Power BI, Power Query, TSQL
+- **Last Updated:** 3 days ago
+
+### [Deep-Learning](https://github.com/Yashe2024/Deep-Learning)
+Updated 5 days ago.
+
+### [Generative-AI](https://github.com/Yashe2024/Generative-AI)
+This repository offers a comprehensive collection of resources, tutorials, and examples focused on generative AI. It covers various generative models, including GANs, VAEs, and transformers.
+
+- **Topics:** machine-learning, deep-learning, transformers, diffusion-models, VAEs, AI models, generative AI
+- **Last Updated:** 5 days ago
+
+### [Machine-Learning](https://github.com/Yashe2024/Machine-Learning)
+Updated 5 days ago.
+
+### [SQL-Structured-Query-Language](https://github.com/Yashe2024/SQL-Structured-Query-Language)
+Updated 5 days ago.
+
+### [DigitalPortfolio.github.io](https://github.com/Yashe2024/DigitalPortfolio.github.io)
+This digital portfolio showcases my skills, projects, and professional journey, featuring a responsive design, interactive elements, and detailed project highlights.
+
+- **Topics:** GitHub, JavaScript, CSS, HTML, web-development, responsive-design, digital-portfolio
+- **Last Updated:** 2 weeks ago
+
+### [Python-for-Data-Science](https://github.com/Yashe2024/Python-for-Data-Science)
+This repository provides a collection of Jupyter notebooks and datasets aimed at helping you learn Python for data science.
+
+- **Topics:** Python, data-science, machine-learning, NumPy, Pandas, data-visualization, Seaborn
+- **Last Updated:** 3 weeks ago
+
+
+
 ![image](https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966)
 # 👋 Hello,World! I’m Yash 
 
