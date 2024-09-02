@@ -28,10 +28,6 @@ Currently, I am deepening my expertise in advanced Power BI techniques and explo
 
 
 ## 🔍 Areas of Interest
-![image]
-<img src="https://github.com/your-username/your-repo/blob/main/your-gif.gif" alt="Description of GIF" width="300"/>
-
-
 
 - **Power BI Mastery:** I’m passionate about pushing the boundaries of Power BI. From designing interactive dashboards and complex data models to implementing advanced analytics, I enjoy turning data into compelling visual stories that drive business decisions.
 - **Machine Learning Exploration:** My interest in machine learning encompasses both supervised and unsupervised learning techniques. I’m particularly fascinated by how machine learning can be applied to solve real-world problems and uncover hidden patterns in data.
