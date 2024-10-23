@@ -85,7 +85,8 @@ I look forward to creating something extraordinary together!
 
 
 # 👋 Hello,World! I’m Yash 
-Welcome to my GitHub profile! 🚀 I’m thrilled to share my journey in data, technology, and project management with you. Whether you're into Business Intelligence (BI), Advanced Analytics, Machine Learning, or looking to collaborate on exciting Project Management initiatives, you've come to the right place!
+Welcome to my GitHub profile! 
+🚀 I’m thrilled to share my journey in data, technology, and project management with you. Whether you're into Business Intelligence (BI), Advanced Analytics, Machine Learning, or looking to collaborate on exciting Project Management initiatives, you've come to the right place!
 
 ## 🌟 About Me
 I’m a Business Intelligence and Business Analyst professional with over 6 years of experience transforming data into actionable insights. My expertise spans across data analytics, machine learning, and project management, where I specialize in leading cross-functional teams, managing resources, and delivering projects on time and within scope. I thrive in aligning technology and business objectives to drive innovation and operational efficiency.
@@ -93,17 +94,20 @@ I’m a Business Intelligence and Business Analyst professional with over 6 year
 Currently, I’m deepening my Power BI skills, exploring Machine Learning innovations, and honing my Project Management expertise to solve complex challenges. My passion lies in implementing data-driven solutions and overseeing projects that make a tangible impact on business performance.
 
 ## 🎓 Educational Background
-Post Graduate Program in Artificial Intelligence & Machine Learning
-University of Texas at Austin, US (2022-24)
-Focused on advanced AI techniques, such as supervised/unsupervised learning and reinforcement learning, along with cutting-edge generative models like GPT-4 and GANs.
+- **Post Graduate Program in Artificial Intelligence and Machine Learning**  
+   *University of Texas at Austin, US*  
+  *Completed: 2022-24*  
+  This program advanced my knowledge in AI and machine learning, covering practical applications and emerging technologies. It has equipped me with skills in both supervised and unsupervised learning, reinforcement learning, and the use of generative AI models.
+  
+- **Master’s in Automotive Designing and Manufacturing**  
+  *Skyy Rider Institutions*  
+  *Graduated: 2020-22*  
+  This program provided me with a solid foundation in automotive design and manufacturing, combining creativity with technical skills and sparking my interest in the intersection of technology and data.
 
-Master’s in Automotive Designing and Manufacturing
-Skyy Rider Institutions (2020-22)
-Gained a creative and technical foundation that expanded my ability to think outside the box in solving technology-driven challenges.
-
-Bachelor of Engineering in Mechanical Engineering
-Techno India University (2012-16)
-Developed strong analytical and problem-solving skills, which have been crucial in my transition into data-driven roles.
+- **Bachelor of Engineering in Mechanical Engineering**  
+  *Techno India University*  
+  *Graduated: 2012-16*  
+  My undergraduate studies equipped me with robust analytical and problem-solving skills that are critical for data analysis and business intelligence.
 
 ##  🔍 What Drives Me
 Power BI Mastery: Creating interactive dashboards and crafting data stories that inform business decisions.
