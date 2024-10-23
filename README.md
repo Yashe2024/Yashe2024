@@ -83,6 +83,67 @@ I look forward to creating something extraordinary together!
 
   
 
+
+
+👋 Hello, World! I'm Yash!
+Welcome to my GitHub profile! 🚀 I’m thrilled to share my journey in data, technology, and project management with you. Whether you're into Business Intelligence (BI), Advanced Analytics, Machine Learning, or looking to collaborate on exciting Project Management initiatives, you've come to the right place!
+
+🌟 About Me
+I’m a Business Intelligence and Business Analyst professional with over 6 years of experience transforming data into actionable insights. My expertise spans across data analytics, machine learning, and project management, where I specialize in leading cross-functional teams, managing resources, and delivering projects on time and within scope. I thrive in aligning technology and business objectives to drive innovation and operational efficiency.
+
+Currently, I’m deepening my Power BI skills, exploring Machine Learning innovations, and honing my Project Management expertise to solve complex challenges. My passion lies in implementing data-driven solutions and overseeing projects that make a tangible impact on business performance.
+
+🎓 Educational Background
+Post Graduate Program in Artificial Intelligence & Machine Learning
+University of Texas at Austin, US (2022-24)
+Focused on advanced AI techniques, such as supervised/unsupervised learning and reinforcement learning, along with cutting-edge generative models like GPT-4 and GANs.
+
+Master’s in Automotive Designing and Manufacturing
+Skyy Rider Institutions (2020-22)
+Gained a creative and technical foundation that expanded my ability to think outside the box in solving technology-driven challenges.
+
+Bachelor of Engineering in Mechanical Engineering
+Techno India University (2012-16)
+Developed strong analytical and problem-solving skills, which have been crucial in my transition into data-driven roles.
+
+🔍 What Drives Me
+Power BI Mastery: Creating interactive dashboards and crafting data stories that inform business decisions.
+Machine Learning Exploration: Leveraging supervised and unsupervised learning to uncover insights and solve complex problems.
+Generative AI Innovation: Working with generative models like GANs, VAEs, and GPT-4 to create and optimize solutions in synthetic data, text generation, and image generation.
+Project Leadership: Combining my PMP certification with hands-on experience in leading projects, driving efficiency, and ensuring that business objectives are met through smart, data-driven decisions.
+🛠️ Core Skills and Expertise
+Business Intelligence & Data Analysis:
+
+Power BI: Expertise in integrating data from multiple sources, creating advanced visualizations, and building sophisticated data models with DAX and Power Query.
+Advanced Analytics: Strong in using predictive modeling and machine learning for business forecasting and strategic decision-making.
+Generative AI:
+
+Skilled in GANs, VAEs, and GPT-4 for tasks like synthetic data creation, text generation, and image generation.
+Working with tools such as DALL-E, StyleGAN, and other advanced AI models to push the boundaries of creative AI.
+Data Processing:
+
+Data Cleaning & Transformation: Ensuring high-quality data through effective cleaning and transformation methods.
+Business Analysis:
+
+Requirement Gathering & Process Mapping: Translating complex business needs into actionable solutions.
+User Stories & Flows: Creating user-centered stories and process flows that drive operational success.
+Project Management:
+
+PMP Certified: Expertise in managing full project lifecycles, from planning to execution and delivery, ensuring alignment with business objectives.
+Agile Methodologies: Leading teams in Agile environments, focusing on iterative development, continuous feedback, and delivering high-quality solutions on time.
+Stakeholder Communication: Skilled at managing relationships across departments and aligning project goals with organizational needs.
+Programming & AI:
+
+SQL & Python: Proficient in querying, analyzing, and automating data workflows.
+AI & Machine Learning: Strong in applying classification, clustering, and reinforcement learning to real-world business challenges.
+🚀 Let’s Collaborate!
+I'm eager to work with you on projects that make a difference. Whether it's:
+
+Data Visualization: Let’s create interactive, impactful dashboards.
+Machine Learning: Join me in tackling complex data challenges.
+Generative AI: Explore new frontiers in AI with me.
+Project Management: If you need a seasoned PM with a technical edge, let’s discuss how I can help you manage your next big project.
+Let’s connect, collaborate, and build something impactful together! Reach out if you share a passion for data, technology, AI, or project management.
  
 
 
