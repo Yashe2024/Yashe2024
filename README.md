@@ -32,33 +32,21 @@ I thrive on **pushing boundaries**—whether it’s crafting predictive models, 
 
 **Program Manager / Product Manager | Data Science & Gen AI**  
 *Capital Numbers (Jan 2025 – Present)*  
-- Built GenAI-powered aftersales platform on **GCP GKE with CI/CD (Jenkins)**  
-- Integrated **Vertex AI, Vision AI, Translation AI, Gemini LLM** for chatbot + smart search  
 
 **Technical Manager | Data Science & Gen AI**  
 *Vinove Software & Services (Sep 2024 – Dec 2024)*  
-- Designed BRD/FRD/PRD for ride-sharing app, hitting **95% client alignment**  
-- Cut reporting time **40%** with BI dashboards (Power BI + Tableau)  
-- Boosted UX **20%** with Figma prototypes  
 
 **Technical Manager | Data Science & AI**  
 *APCO Holdings, LLC (Jul 2023 – Mar 2024)*  
-- Built **financial KPI dashboards** reducing reporting time **35%**  
-- Enhanced forecasting accuracy **20%** with ML models  
 
 **Business Analyst / APM | PMO**  
 *Safewell (Jan 2022 – Dec 2022)*  
-- Delivered dashboards achieving **95% on-time supply chain delivery**  
-- Saved **20% procurement costs** using NLP  
 
 **Operations Manager | PMO**  
 *Gautam Engineers Ltd. (Oct 2018 – Jan 2022)*  
-- Improved manufacturing insights **20%** with Tableau  
-- Cut reporting errors **35%** with Power BI  
 
 **Business Analyst**  
 *Capgemini India (Jun 2017 – Jun 2018)*  
-- Supported **SAP HR HCM projects** (data migration + system support)  
 
 ---
 
