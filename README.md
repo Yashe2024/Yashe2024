@@ -1,5 +1,5 @@
 # 👋 Hello, World! I’m Yash Sinha  
-**AI & ML Wizard | Business Intelligence Guru | Project Management Pro**  
+**Manager, Digital Services | AI & ML Wizard | Business Intelligence | Project Management **  
 📍 New Delhi, India | 🌐 [Portfolio]() | 💼 [LinkedIn](https://www.linkedin.com/in/yashsinha12354)  
 
 ---
