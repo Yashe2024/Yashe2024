@@ -1,6 +1,6 @@
 # 👋 Hello, World! I’m Yash Sinha  
-**Manager, Digital Services | AI & ML Wizard | Business Intelligence | Project Management **  
-📍 New Delhi, India | 🌐 [Portfolio]() | 💼 [LinkedIn](https://www.linkedin.com/in/yashsinha12354)  
+Manager, Digital Services | AI & ML Wizard | Business Intelligence | Project Management 
+📍 New Delhi, India | 🌐 [Portfolio](https://www.zapfolio.in/yashsinha-dip) | 💼 [LinkedIn](https://www.linkedin.com/in/yashsinha12354)  
 
 ---
 
