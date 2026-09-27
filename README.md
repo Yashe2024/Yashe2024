@@ -5,7 +5,7 @@ Manager, Digital Services | AI & ML Wizard | Business Intelligence | Project Man
 ---
 
 ## 🌟 About Me  
-Hey there! I’m a **Technical Program/Product Manager** with **9+ years of experience**, weaving magic with **AI/ML, Generative AI, and Business Intelligence** to solve real-world challenges.  
+Hey there! I’m a **Technical Program/Product Manager** with **10+ years of experience**, weaving magic with **AI/ML, Generative AI, and Business Intelligence** to solve real-world challenges.  
 
 From **building intelligent chatbots** to **streamlining automotive supply chains**, I transform data into actionable insights while leading projects that deliver real impact.  
 
@@ -28,34 +28,11 @@ I thrive on **pushing boundaries**—whether it’s crafting predictive models, 
 
 ---
 
-## 💼 My Adventure Log  
-
-**Program Manager / Product Manager | Data Science & Gen AI**  
-*Capital Numbers (Jan 2025 – Present)*  
-
-**Technical Manager | Data Science & Gen AI**  
-*Vinove Software & Services (Sep 2024 – Dec 2024)*  
-
-**Technical Manager | Data Science & AI**  
-*APCO Holdings, LLC (Jul 2023 – Mar 2024)*  
-
-**Business Analyst / APM | PMO**  
-*Safewell (Jan 2022 – Dec 2022)*  
-
-**Operations Manager | PMO**  
-*Gautam Engineers Ltd. (Oct 2018 – Jan 2022)*  
-
-**Business Analyst**  
-*Capgemini India (Jun 2017 – Jun 2018)*  
-
----
-
 ## 🎓 Knowledge Quest  
 
 - 🎓 **Postgraduate Degree, AI & ML** – Texas McCombs School of Business (2022–2024)  
 - 🎓 **M.Tech, Design Engineering** – Centurion University (2020–2022)  
 - 🎓 **B.Tech, Mechanical Engineering** – Techno India University (2012–2016)  
-- 🎓 **Schooling, Science** – Kendriya Vidyalaya (2003–2012)  
 - 📜 **AI & PM Programs** – IIT Roorkee (2024)  
 
 ---
@@ -85,7 +62,6 @@ I thrive on **pushing boundaries**—whether it’s crafting predictive models, 
 ## 🤝 Making a Difference  
 
 - 🎓 **Mentor** – AI & ML Programs at BITS Pilani & Texas McCombs  
-- ❤️ **Volunteer** – HelpAge India (2004–2008)  
 
 ---
 
