@@ -3,7 +3,7 @@
 ### AI & Data Transformation Leader | GenAI Strategy | AI & ML | Technical Program Management | Product Management | AI Architecture | AI Governance | Data & BI | Cloud & Analytics | Enterprise GenAI | RAG | Agentic AI | Digital Transformation | Solution Architecture | Presales | Business Value & Technology Strategy
 
 📍 New Delhi, India  
-💼 [LinkedIn](https://www.linkedin.com/in/yashsinha2024/)) 
+💼 [LinkedIn](https://www.linkedin.com/in/yashsinha2024/)
 
 ---
 
