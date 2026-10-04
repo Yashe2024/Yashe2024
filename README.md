@@ -64,7 +64,7 @@ I approach AI initiatives from an **enterprise value perspective**:
 
 ## Featured Areas
 
-### SARA.ai — AI-Native Transaction Monitoring
+### AI-Native Financial Transaction Monitoring System
 
 Exploring an AI-native approach to transaction monitoring and financial crime investigation using:
 
