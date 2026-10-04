@@ -167,4 +167,4 @@ Connecting technical decisions with business outcomes, operational efficiency, r
 
 I’m interested in building and leading **AI, GenAI, Data & Analytics, and digital transformation initiatives** where technology needs to create measurable business value.
 
-[LinkedIn](https://www.linkedin.com/in/yashsinha12354) · [Portfolio](https://www.zapfolio.in/yashsinha-dip)
+💼 [LinkedIn](https://www.linkedin.com/in/yashsinha2024/)
